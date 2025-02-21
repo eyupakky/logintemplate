@@ -1,4 +1,5 @@
 # Login template
-https://github.com/eyupakky/logintemplate/blob/main/login-register2.jpg
+<img src="https://github.com/eyupakky/logintemplate/blob/main/login-register2.jpg" width="400" />
+
 # Register template
-https://github.com/eyupakky/logintemplate/blob/main/login-register.jpg
+<img src="https://github.com/eyupakky/logintemplate/blob/main/login-register.jpg" width="400" />
